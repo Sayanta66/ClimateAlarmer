@@ -1,2 +1,3 @@
 # ClimateAlarmer
-this application provides weather data
+
+This application provides weather data
