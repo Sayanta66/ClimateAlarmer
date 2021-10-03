@@ -1,3 +1,3 @@
 # ClimateAlarmer
 
-This application provides weather data
+This application provides weather data using gs location
